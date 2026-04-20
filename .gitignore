@@ -268,3 +268,4 @@ __marimo__/
 # General
 .claude
 create_notebook.py
+*.txt
